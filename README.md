@@ -72,8 +72,7 @@ The goal is to provide actionable insights into sales performance by region, pro
 ---
 
 ## 📸 Screenshots
-*(sales_dashboard.png)*
-
+![Dashboard Screenshot](sales_dashboard.png)
 ---
 
 ## 🚀 How to Use
